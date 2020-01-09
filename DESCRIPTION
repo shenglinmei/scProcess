@@ -1,0 +1,15 @@
+Package: testr
+Type: Package
+Title: test analysis 
+Version: 0.1.0
+Author: Shenglin Mei
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

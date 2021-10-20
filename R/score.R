@@ -1,4 +1,6 @@
 
+
+
 getScore=function(aexp,gs,group,anoSample,anoType,magnitude.normal=NULL,rscore=NULL){
   # exp colname is gene 
   
